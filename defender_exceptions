@@ -1,0 +1,1 @@
+powershell -Command Add-MpPreference -ExclusionPath "C:\Windows\AutoKMS,C:\Windows\AutoKMS\AutoKMS.exe,%WINDIR%\Temp\SppExtComObjHook.dll,%LOCALAPPDATA%\Temp\SppExtComObjHook.dll"
